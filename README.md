@@ -1,4 +1,8 @@
-# i2pd android
+# to be a gostcoind jni wrapper for android
+
+to be used in flutter gostcoin wallet with android target
+
+older i2pd info below, to be edited.
 
 ### Install OpenJDK, gradle 5.1+ (6.8.3 has been tested and is working ok), download Android SDK and NDK r21e
 https://gradle.org/install/
